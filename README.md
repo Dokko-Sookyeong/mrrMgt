@@ -10,3 +10,5 @@
 ![회의실관리-등록](https://user-images.githubusercontent.com/70935023/146495626-474a0a3c-6132-44f4-a3c8-5a5f2dc5d1c3.PNG)
 
 ![회의실관리-상세](https://user-images.githubusercontent.com/70935023/146495665-b8173fac-4fec-43ae-bc02-005b15be1d41.PNG)
+
+![회의실관리-수정](https://user-images.githubusercontent.com/70935023/146495882-9d0cdf29-31cb-44fe-89e7-a59fa0f52ffd.PNG)
